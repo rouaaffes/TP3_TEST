@@ -6,7 +6,7 @@ public class Welcome {
 		if (input == null || input.trim().length() == 0) {
 			return "Hello, my friend";
 		}
-		return "Hello,Bob";
+		return "Hello, Bob";
 	}
 
 }
